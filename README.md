@@ -1,5 +1,3 @@
-# Hey There👋
-
 # Hey, I'm Omkar 👋
 
 💻 Computer Science Student  
