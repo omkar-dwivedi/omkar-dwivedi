@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey There👋
 
-<!--
-**omkar-dwivedi/omkar-dwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Omkar 👋
 
-Here are some ideas to get you started:
+💻 Computer Science Student  
+🚀 Learning Backend, APIs & Cloud  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I'm Doing
+- Building backend projects
+- Learning APIs and databases
+- Contributing to open source (freeCodeCamp)
+
+---
+
+## 🧠 Currently Learning
+- Node.js / Python
+- MongoDB / SQL
+- REST APIs
+- Git & GitHub
+
+---
+
+## 🎯 Goals
+- Build real-world projects
+- Become job-ready in software development
+- Grow through consistent learning
+
+---
+
+## 📫 Connect with me
+LinkedIn: (apna link daal)
