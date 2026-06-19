@@ -12,6 +12,7 @@
 ---
 
 ## 🧠 Currently Learning
+- React
 - Node.js / Python
 - AWS
 ---
